@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "643387902290",
+    "project_id": "deliverymarketplace-57851",
+    "storage_bucket": "deliverymarketplace-57851.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643387902290:android:acee96a1a3d11041ef928b",
+        "android_client_info": {
+          "package_name": "com.marketplace.deliverycustomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqh5oH5Teq8Xv8RtXGAJd5eFItNMotsLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643387902290:android:6cf238201b2e6d75ef928b",
+        "android_client_info": {
+          "package_name": "com.marketplace.deliverymerchant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqh5oH5Teq8Xv8RtXGAJd5eFItNMotsLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643387902290:android:79e03249b2c07f0cef928b",
+        "android_client_info": {
+          "package_name": "com.marketplace.deliveryrider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqh5oH5Teq8Xv8RtXGAJd5eFItNMotsLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
